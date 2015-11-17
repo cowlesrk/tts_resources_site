@@ -1,0 +1,39 @@
+.jumbotron {
+	background-color: rgb(247, 144, 39);
+	color:white;
+    padding: 5%;
+}
+
+.row {
+    padding: 5%;
+}
+ .panel {
+    padding: 3%;
+    font-size: 16px;
+ }
+
+.btn {
+    padding: 14px 24px;
+    border: 0 none;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.btn-primary {
+	background: rgb(250, 183, 115);
+	color:white;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+    background: black;
+}
+
+.btn-primary:active, .btn-primary.active {
+    background: black;
+    box-shadow: none;
+}
+
+.thumbnail img {
+	height:200px;
+}
